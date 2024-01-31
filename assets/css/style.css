@@ -1,0 +1,50 @@
+h1{
+    display: flex;
+    width: 100% ;
+    align-items: center;
+    justify-content: center;
+}
+
+h2{
+    display: flex;
+    width: 100% ;
+    align-items: center;
+    justify-content: center;
+}
+
+main{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+}
+article{
+    width: 30%;
+}
+
+#tarjeta{
+    border: solid 30px ;
+    padding: 20px ;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(255, 244, 231);
+    margin-bottom: 20px;
+    border-radius: 3px;
+}
+
+#tarjeta2{
+    border: solid 30px ;
+    padding: 20px ;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(255, 244, 231);
+    margin-bottom: 20px;
+    border-radius: 3px;
+}
+
+body{
+    background-image: url(https://img.freepik.com/free-vector/geometric-background-vector-white-cube-patterns_53876-126683.jpg);
+    background-repeat: no-repeat;
+    color: #0f0808;
+    background-size: 100% 100%;
+}
